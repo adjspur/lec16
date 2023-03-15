@@ -1,0 +1,8 @@
+.photo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.rounded {
+  border-radius: 30px;
+}
